@@ -8,8 +8,8 @@
       "video": "https://vk.com/club230329098",
       "home_team": {
         "name": "Megands",
-        "logo": "/otz2026/img/Paw Patrol.png",
-        "link": "/otz2026/teams/PawPatrol",
+        "logo": "/otz2026/img/Megands.png",
+        "link": "/otz2026/teams/Megands",
         "score": 0,
         "stats": {
           "points": 0,
@@ -30,8 +30,8 @@
       },
       "away_team": {
         "name": "Paw Patrol",
-        "logo": "/otz2026/img/Megands.png",
-        "link": "/otz2026/teams/Megands",
+        "logo": "/otz2026/img/Paw Patrol.png",
+        "link": "/otz2026/teams/PawPatrol",
         "score": 0,
         "stats": {
           "points": 0,
