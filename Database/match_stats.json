@@ -21,11 +21,11 @@
           "3pt": "0"
         },
         "players": [
-          {"name": "Демьянов Кирилл", "photo": "4", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/4"},
-          {"name": "Сингатулин Ильдар", "photo": "20", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/20"},
-          {"name": "Лукьянов Святослав", "photo": "10", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/10"},
-          {"name": "Ржевский Алексей", "photo": "17", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/17"},
-          {"name": "Мартыненко Данила", "photo": "14", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/14"}
+          {"name": "Кондратьев Ярослав", "photo": "8", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/8"},
+          {"name": "Бабенко Александр", "photo": "1", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/1"},
+          {"name": "Огурцов Владимир", "photo": "16", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/16"},
+          {"name": "Сусоров Максим", "photo": "21", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/21"},
+          {"name": "Ежов Глеб", "photo": "6", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/6"}
         ]
       },
       "away_team": {
@@ -42,13 +42,13 @@
           "fg": "0",
           "3pt": "0"
         },
-        "players": [
-          {"name": "Кондратьев Ярослав", "photo": "8", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/8"},
-          {"name": "Бабенко Александр", "photo": "1", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/1"},
-          {"name": "Огурцов Владимир", "photo": "16", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/16"},
-          {"name": "Сусоров Максим", "photo": "21", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/21"},
-          {"name": "Ежов Глеб", "photo": "6", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/6"}
-        ]
+       "players": [
+          {"name": "Демьянов Кирилл", "photo": "4", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/4"},
+          {"name": "Сингатулин Ильдар", "photo": "20", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/20"},
+          {"name": "Лукьянов Святослав", "photo": "10", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/10"},
+          {"name": "Ржевский Алексей", "photo": "17", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/17"},
+          {"name": "Мартыненко Данила", "photo": "14", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "fg": "0", "3pt": "0", "link": "/otz2025/players/14"}
+        ] 
       }
     },
 
