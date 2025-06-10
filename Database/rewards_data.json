@@ -47,6 +47,18 @@
       "description": "Самый ценный игрок финала",
       "image": "/otz2025/img/FMVP.png",
       "recipient": "TBD"
+    },
+    {
+      "title": "MAP (Most Accurate Player)",
+      "description": "Самый точный по трёхочковым в сезоне",
+      "image": "/otz2025/img/MAP.png",
+      "recipient": "TBD"
+    },
+    {
+      "title": "BATY (Best Assistant of The Year)",
+      "description": "Лучший ассистент",
+      "image": "/otz2025/img/BATY.png",
+      "recipient": "TBD"
     }
   ],
   "symbolic_teams": [
