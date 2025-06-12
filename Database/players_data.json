@@ -11,8 +11,7 @@
       "assists": 5,
       "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Чугунов Макар",
@@ -25,36 +24,33 @@
       "assists": 4,
       "steals": 1,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Шипко Владимир",
       "photo": "24",
       "team": "Kitty Boys",
       "height": 175,
-      "games": 0,
-      "points": 0,
-      "rebounds": 0,
+      "games": 1,
+      "points": 4,
+      "rebounds": 2,
       "assists": 0,
-      "steals": 0,
+      "steals": 1,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Яртым Андрей",
       "photo": "25",
       "team": "Bulldogs",
       "height": 174,
-      "games": 0,
-      "points": 0,
-      "rebounds": 0,
-      "assists": 0,
-      "steals": 0,
-      "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "games": 1,
+      "points": 1,
+      "rebounds": 3,
+      "assists": 1,
+      "steals": 1,
+      "blocks": 1,
+      "3pt": 0
     },
     {
       "name": "Макаров Николай",
@@ -65,9 +61,9 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Кондратьев Ярослав",
@@ -78,48 +74,48 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Гуленин Глеб",
       "photo": "3",
       "team": "Kitty Boys",
       "height": 176,
-      "games": 0,
-      "points": 0,
-      "rebounds": 0,
-      "assists": 0,
+      "games": 1,
+      "points": 39,
+      "rebounds": 13,
+      "assists": 1,
+      "steals": 8,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Ивлев Мирослав",
       "photo": "7",
       "team": "Bulldogs",
       "height": 184,
-      "games": 0,
-      "points": 0,
-      "rebounds": 0,
-      "assists": 0,
-      "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "games": 1,
+      "points": 23,
+      "rebounds": 15,
+      "assists": 9,
+      "steals": 0,
+      "blocks": 5,
+      "3pt": 0
     },
     {
       "name": "Нагайцев Андрей",
       "photo": "15",
       "team": "Bulldogs",
       "height": 165,
-      "games": 0,
-      "points": 0,
-      "rebounds": 0,
+      "games": 1,
+      "points": 10,
+      "rebounds": 3,
       "assists": 0,
-      "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "steals": 2,
+      "blocks": 1,
+      "3pt": 0
     },
     {
       "name": "Головко Роман",
@@ -130,22 +126,22 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Симонян Богдан",
       "photo": "19",
       "team": "Kitty Boys",
       "height": 176,
-      "games": 0,
-      "points": 0,
-      "rebounds": 0,
-      "assists": 0,
+      "games": 1,
+      "points": 2,
+      "rebounds": 5,
+      "assists": 1,
+      "steals": 1,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Огурцов Владимир",
@@ -156,9 +152,9 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Сусоров Максим",
@@ -169,9 +165,9 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Бабенко Александр",
@@ -182,9 +178,9 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Макаров Андрей",
@@ -195,9 +191,9 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Ржевский Михаил",
@@ -208,9 +204,9 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Демьянов Кирилл",
@@ -221,9 +217,9 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Ежов Глеб",
@@ -234,35 +230,35 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Луцик Владимир",
       "photo": "11",
       "team": "Kitty Boys",
       "height": 192,
-      "games": 0,
-      "points": 0,
-      "rebounds": 0,
+      "games": 1,
+      "points": 20,
+      "rebounds": 19,
       "assists": 0,
-      "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "steals": 2,
+      "blocks": 2,
+      "3pt": 0
     },
     {
       "name": "Лагуткин Артем",
       "photo": "9",
       "team": "Kitty Boys",
       "height": 180,
-      "games": 0,
-      "points": 0,
-      "rebounds": 0,
-      "assists": 0,
+      "games": 1,
+      "points": 36,
+      "rebounds": 7,
+      "assists": 2,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Сингатулин Ильдар",
@@ -273,9 +269,9 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Динамо Глеб",
@@ -286,9 +282,9 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Лукьянов Святослав",
@@ -299,9 +295,9 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Ржевский Алексей",
@@ -312,9 +308,9 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     },
     {
       "name": "Мартыненко Данила",
@@ -325,9 +321,9 @@
       "points": 0,
       "rebounds": 0,
       "assists": 0,
+      "steals": 0,
       "blocks": 0,
-      "plusMinus": 0,
-      "efficiency": 0
+      "3pt": 0
     }
   ]
 }
