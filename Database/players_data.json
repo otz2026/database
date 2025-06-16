@@ -6,25 +6,25 @@
       "team": "Bulldogs",
       "height": 187,
       "games": 3,
-      "points": 133,
-      "rebounds": 33,
-      "assists": 9,
-      "steals": 0,
-      "blocks": 1,
-      "3pt": 2
+      "points": 113,
+      "rebounds": 45,
+      "assists": 27,
+      "steals": 1,
+      "blocks": 3,
+      "3pt": 10
     },
     {
       "name": "Чугунов Макар",
       "photo": "23",
       "team": "Bulldogs",
       "height": 187,
-      "games": 1,
-      "points": 10,
-      "rebounds": 7,
-      "assists": 4,
+      "games": 3,
+      "points": 55,
+      "rebounds": 28,
+      "assists": 27,
       "steals": 1,
-      "blocks": 0,
-      "3pt": 0
+      "blocks": 3,
+      "3pt": 10
     },
     {
       "name": "Шипко Владимир",
@@ -35,7 +35,7 @@
       "points": 4,
       "rebounds": 2,
       "assists": 0,
-      "steals": 1,
+      "steals": 2,
       "blocks": 0,
       "3pt": 0
     },
@@ -59,8 +59,8 @@
       "height": 176,
       "games": 1,
       "points": 0,
-      "rebounds": 0,
-      "assists": 0,
+      "rebounds": 1,
+      "assists": 1,
       "steals": 0,
       "blocks": 0,
       "3pt": 0
@@ -87,35 +87,35 @@
       "points": 91,
       "rebounds": 27,
       "assists": 4,
-      "steals": 3,
+      "steals": 11,
       "blocks": 1,
-      "3pt": 3
+      "3pt": 7
     },
     {
       "name": "Ивлев Мирослав",
       "photo": "7",
       "team": "Bulldogs",
       "height": 184,
-      "games": 2,
-      "points": 39,
-      "rebounds": 23,
-      "assists": 22,
-      "steals": 2,
-      "blocks": 7,
-      "3pt": 0
+      "games": 3,
+      "points": 52,
+      "rebounds": 29,
+      "assists": 23,
+      "steals": 9,
+      "blocks": 8,
+      "3pt": 5
     },
     {
       "name": "Нагайцев Андрей",
       "photo": "15",
       "team": "Bulldogs",
       "height": 165,
-      "games": 2,
-      "points": 18,
-      "rebounds": 5,
-      "assists": 7,
-      "steals": 3,
-      "blocks": 2,
-      "3pt": 2
+      "games": 3,
+      "points": 32,
+      "rebounds": 4,
+      "assists": 8,
+      "steals": 4,
+      "blocks": 1,
+      "3pt": 8
     },
     {
       "name": "Головко Роман",
@@ -213,7 +213,7 @@
       "photo": "4",
       "team": "Bulldogs",
       "height": 160,
-      "games": 1,
+      "games": 2,
       "points": 7,
       "rebounds": 3,
       "assists": 10,
@@ -254,11 +254,11 @@
       "height": 180,
       "games": 2,
       "points": 65,
-      "rebounds": 13,
+      "rebounds": 12,
       "assists": 7,
       "steals": 0,
       "blocks": 0,
-      "3pt": 5
+      "3pt": 10
     },
     {
       "name": "Сингатулин Ильдар",
