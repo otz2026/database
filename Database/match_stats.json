@@ -20,11 +20,11 @@
           "3pt": "0"
         },
         "players": [
-          {"name": "Трихук Никита", "photo": "22", "points": 58, "rebounds": 25, "assists": 5, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/22"},
-          {"name": "Чугунов Макар", "photo": "23", "points": 10, "rebounds": 7, "assists": 4, "steals": 1, "blocks": 5, "3pt": "0", "link": "/otz2025/players/23"},
+          {"name": "Трихук Никита", "photo": "22", "points": 58, "rebounds": 25, "assists": 5, "steals": 0, "blocks": 0, "3pt": "2", "link": "/otz2025/players/22"},
+          {"name": "Чугунов Макар", "photo": "23", "points": 10, "rebounds": 7, "assists": 4, "steals": 1, "blocks": 5, "3pt": "2", "link": "/otz2025/players/23"},
           {"name": "Яртым Андрей", "photo": "25", "points": 1, "rebounds": 3, "assists": 1, "steals": 1, "blocks": 1, "3pt": "0", "link": "/otz2025/players/25"},
-          {"name": "Ивлев Мирослав", "photo": "7", "points": 23, "rebounds": 15, "assists": 9, "steals": 0, "blocks": 5, "3pt": "0", "link": "/otz2025/players/7"},
-          {"name": "Нагайцев Андрей", "photo": "15", "points": 10, "rebounds": 2, "assists": 0, "steals": 1, "blocks": 0, "3pt": "0", "link": "/otz2025/players/15"},
+          {"name": "Ивлев Мирослав", "photo": "7", "points": 23, "rebounds": 15, "assists": 9, "steals": 0, "blocks": 5, "3pt": "1", "link": "/otz2025/players/7"},
+          {"name": "Нагайцев Андрей", "photo": "15", "points": 10, "rebounds": 2, "assists": 0, "steals": 1, "blocks": 0, "3pt": "2", "link": "/otz2025/players/15"},
           {"name": "Демьянов Кирилл", "photo": "4", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/4"}
         ]
       },
@@ -43,10 +43,10 @@
         },
         "players": [
           {"name": "Шипко Владимир", "photo": "24", "points": 4, "rebounds": 2, "assists": 0, "steals": 2, "blocks": 0, "3pt": "0", "link": "/otz2025/players/24"},
-          {"name": "Гуленин Глеб", "photo": "3", "points": 39, "rebounds": 13, "assists": 1, "steals": 8, "blocks": 0, "3pt": "0", "link": "/otz2025/players/3"},
+          {"name": "Гуленин Глеб", "photo": "3", "points": 39, "rebounds": 13, "assists": 1, "steals": 8, "blocks": 0, "3pt": "4", "link": "/otz2025/players/3"},
           {"name": "Симонян Богдан", "photo": "19", "points": 2, "rebounds": 5, "assists": 1, "steals": 1, "blocks": 0, "3pt": "0", "link": "/otz2025/players/19"},
           {"name": "Луцик Владимир", "photo": "11", "points": 20, "rebounds": 19, "assists": 0, "steals": 2, "blocks": 2, "3pt": "0", "link": "/otz2025/players/11"},
-          {"name": "Лагуткин Артем", "photo": "9", "points": 36, "rebounds": 7, "assists": 2, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/9"}
+          {"name": "Лагуткин Артем", "photo": "9", "points": 36, "rebounds": 7, "assists": 2, "steals": 0, "blocks": 0, "3pt": "5", "link": "/otz2025/players/9"}
         ]
       }
     },
