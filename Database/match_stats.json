@@ -1,54 +1,5 @@
 {
   "matches": [
-    {
-      "id": "20250618-1300",
-      "date": "18 июня 13:00",
-      "location": "Звенигород",
-      "competition": "OTZ Summer League, Opening Night",
-      "video": "https://vk.com/club230329098",
-      "home_team": {
-        "name": "Megands",
-        "logo": "/otz2025/img/Megands.png",
-        "link": "/otz2025/teams/Megands",
-        "score": 0,
-        "stats": {
-          "points": 0,
-          "rebounds": 0,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "3pt": "0"
-        },
-        "players": [
-          {"name": "Кондратьев Ярослав", "photo": "8", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/8"},
-          {"name": "Бабенко Александр", "photo": "1", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/1"},
-          {"name": "Огурцов Владимир", "photo": "16", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/16"},
-          {"name": "Сусоров Максим", "photo": "21", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/21"},
-          {"name": "Ежов Глеб", "photo": "6", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/6"}
-        ]
-      },
-      "away_team": {
-        "name": "Paw Patrol",
-        "logo": "/otz2025/img/Paw Patrol.png",
-        "link": "/otz2025/teams/PawPatrol",
-        "score": 0,
-        "stats": {
-          "points": 0,
-          "rebounds": 0,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "3pt": "0"
-        },
-       "players": [
-          {"name": "Демьянов Кирилл", "photo": "4", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/4"},
-          {"name": "Сингатулин Ильдар", "photo": "20", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/20"},
-          {"name": "Лукьянов Святослав", "photo": "10", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/10"},
-          {"name": "Ржевский Алексей", "photo": "17", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/17"},
-          {"name": "Мартыненко Данила", "photo": "14", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/14"}
-        ] 
-      }
-    },
 
 
     {
@@ -154,57 +105,6 @@
       }
     },
 
-
-    {
-      "id": "20250619-1600",
-      "date": "19 июня 16:00",
-      "location": "Звенигород",
-      "competition": "OTZ Summer League, Opening Night",
-      "video": "https://vk.com/club230329098",
-      "home_team": {
-        "name": "Crumbl Bishes",
-        "logo": "/otz2025/img/Crumbl Bishes.png",
-        "link": "/otz2025/teams/CrumblBishes",
-        "score": 0,
-        "stats": {
-          "points": 0,
-          "rebounds": 0,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "3pt": "0"
-        },
-        "players": [
-          {"name": "Головко Роман", "photo": "2", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/2"},
-          {"name": "Макаров Андрей", "photo": "12", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/12"},
-          {"name": "Макаров Николай", "photo": "13", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/13"},
-          {"name": "Ржевский Михаил", "photo": "18", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/18"},
-          {"name": "Динамо Глеб", "photo": "5", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/5"},
-          {"name": "Демьянов Кирилл", "photo": "4", "points": 0, "rebounds": 0, "assists": 1, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/4"},
-        ]
-      },
-      "away_team": {
-        "name": "Paw Patrol",
-        "logo": "/otz2025/img/Paw Patrol.png",
-        "link": "/otz2025/teams/PawPatrol",
-        "score": 0,
-        "stats": {
-          "points": 0,
-          "rebounds": 0,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "3pt": "0"
-        },
-        "players": [
-          {"name": "Демьянов Кирилл", "photo": "4", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/4"},
-          {"name": "Сингатулин Ильдар", "photo": "20", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/20"},
-          {"name": "Лукьянов Святослав", "photo": "10", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/10"},
-          {"name": "Ржевский Алексей", "photo": "17", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/17"},
-          {"name": "Мартыненко Данила", "photo": "14", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/14"}
-        ]
-      }
-    },
 
 
     {
