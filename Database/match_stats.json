@@ -122,8 +122,8 @@
           "3pt": "8"
         },
         "players": [
-          {"name": "Головко Роман", "photo": "2", "points": 6, "rebounds": 4, "assists": 4, "steals": 0, "blocks": 0, "3pt": "1", "link": "/otz2025/players/2"},
-          {"name": "Макаров Андрей", "photo": "12", "points": 40, "rebounds": 8, "assists": 1, "steals": 0, "blocks": 1, "3pt": "4", "link": "/otz2025/players/12"},
+          {"name": "Головко Роман", "photo": "2", "points": 5, "rebounds": 4, "assists": 4, "steals": 0, "blocks": 0, "3pt": "1", "link": "/otz2025/players/2"},
+          {"name": "Макаров Андрей", "photo": "12", "points": 41, "rebounds": 8, "assists": 1, "steals": 0, "blocks": 1, "3pt": "4", "link": "/otz2025/players/12"},
           {"name": "Макаров Николай", "photo": "13", "points": 0, "rebounds": 1, "assists": 1, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/13"},
           {"name": "Ржевский Михаил", "photo": "18", "points": 8, "rebounds": 6, "assists": 2, "steals": 1, "blocks": 0, "3pt": "1", "link": "/otz2025/players/18"},
           {"name": "Динамо Глеб", "photo": "5", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/5"},
@@ -145,11 +145,11 @@
           "3pt": "6"
         },
         "players": [
-          {"name": "Трихук Никита", "photo": "22", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/22"},
-          {"name": "Чугунов Макар", "photo": "23", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/23"},
+          {"name": "Трихук Никита", "photo": "22", "points": 23, "rebounds": 8, "assists": 4, "steals": 0, "blocks": 1, "3pt": "2", "link": "/otz2025/players/22"},
+          {"name": "Чугунов Макар", "photo": "23", "points": 20, "rebounds": 8, "assists": 2, "steals": 3, "blocks": 1, "3pt": "0", "link": "/otz2025/players/23"},
           {"name": "Яртым Андрей", "photo": "25", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/25"},
-          {"name": "Ивлев Мирослав", "photo": "7", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/7"},
-          {"name": "Нагайцев Андрей", "photo": "15", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/15"}
+          {"name": "Ивлев Мирослав", "photo": "7", "points": 13, "rebounds": 6, "assists": 1, "steals": 7, "blocks": 1, "3pt": "1", "link": "/otz2025/players/7"},
+          {"name": "Нагайцев Андрей", "photo": "15", "points": 14, "rebounds": 0, "assists": 1, "steals": 2, "blocks": 0, "3pt": "3", "link": "/otz2025/players/15"}
         ]
       }
     },
@@ -179,7 +179,8 @@
           {"name": "Макаров Андрей", "photo": "12", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/12"},
           {"name": "Макаров Николай", "photo": "13", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/13"},
           {"name": "Ржевский Михаил", "photo": "18", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/18"},
-          {"name": "Динамо Глеб", "photo": "5", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/5"}
+          {"name": "Динамо Глеб", "photo": "5", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/5"},
+          {"name": "Демьянов Кирилл", "photo": "4", "points": 0, "rebounds": 0, "assists": 1, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/4"},
         ]
       },
       "away_team": {
