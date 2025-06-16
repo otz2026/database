@@ -1,18 +1,5 @@
 [
   {
-    "id": 3,
-    "team": "Crumbl Bishes",
-    "logo": "/otz2025/img/Crumbl Bishes.png",
-    "games": 1,
-    "wins": 1,
-    "losses": 0,
-    "scored": 76,
-    "conceded": 70,
-    "percentage": 6,
-    "place": 3,
-    "urlname": "CrumblBishes"
-  },
-  {
     "id": 1,
     "team": "Bulldogs",
     "logo": "/otz2025/img/Bulldogs.png",
@@ -37,6 +24,19 @@
     "percentage": 0,
     "place": 2,
     "urlname": "KittyBoys"
+  },
+  {
+    "id": 3,
+    "team": "Crumbl Bishes",
+    "logo": "/otz2025/img/Crumbl Bishes.png",
+    "games": 1,
+    "wins": 1,
+    "losses": 0,
+    "scored": 76,
+    "conceded": 70,
+    "percentage": 6,
+    "place": 3,
+    "urlname": "CrumblBishes"
   },
   {
     "id": 4,
