@@ -1,0 +1,220 @@
+{
+  "schedule": {
+    "opening_night": [
+
+      {
+        "team1": {
+          "name": "Bulldogs",
+          "logo": "/otz2025/img/Bulldogs.png",
+          "link": "/otz2025/teams/Bulldogs"
+        },
+        "team2": {
+          "name": "Kitty Boys",
+          "logo": "/otz2025/img/Kitty Boys.png",
+          "link": "/otz2025/teams/KittyBoys"
+        },
+        "score": "102 : 101",
+        "date": "10 июня в 17:00",
+        "match_id": "20250618-1445"
+      },
+
+      {
+        "team1": {
+          "name": "Crumbl Bishes",
+          "logo": "/otz2025/img/Crumbl Bishes.png",
+          "link": "/otz2025/teams/CrumblBishes"
+        },
+        "team2": {
+          "name": "Bulldogs",
+          "logo": "/otz2025/img/Bulldogs.png",
+          "link": "/otz2025/teams/Bulldogs"
+        },
+        "score": "76:70",
+        "date": "16 июня 16:00",
+        "match_id": "20250618-1700"
+      },
+
+
+      {
+        "team1": {
+          "name": "Bulldogs",
+          "logo": "/otz2025/img/Bulldogs.png",
+          "link": "/otz2025/teams/Bulldogs"
+        },
+        "team2": {
+          "name": "Kitty Boys",
+          "logo": "/otz2025/img/Kitty Boys.png",
+          "link": "/otz2025/teams/KittyBoys"
+        },
+        "score": "89:90",
+        "date": "16 июня в 17:00",
+        "match_id": "20250709-1600"
+      },
+
+      {
+        "team1": {
+          "name": "Megands",
+          "logo": "/otz2025/img/Megands.png",
+          "link": "/otz2025/teams/Megands"
+        },
+        "team2": {
+          "name": "Kitty Boys",
+          "logo": "/otz2025/img/Kitty Boys.png",
+          "link": "/otz2025/teams/KittyBoys"
+        },
+        "score": "Не начался",
+        "date": "19 июня в 18:00",
+        "match_id": "20250619-1800"
+      },
+
+      {
+        "team1": {
+          "name": "Crumbl Bishes",
+          "logo": "/otz2025/img/Crumbl Bishes.png",
+          "link": "/otz2025/teams/CrumblBishes"
+        },
+        "team2": {
+          "name": "Kitty Boys",
+          "logo": "/otz2025/img/Kitty Boys.png",
+          "link": "/otz2025/teams/KittyBoys"
+        },
+        "score": "Не начался",
+        "date": "20 июня в 14:00",
+        "match_id": "20250620-1400"
+      },
+
+      {
+        "team1": {
+          "name": "Bulldogs",
+          "logo": "/otz2025/img/Bulldogs.png",
+          "link": "/otz2025/teams/Bulldogs"
+        },
+        "team2": {
+          "name": "Megands",
+          "logo": "/otz2025/img/Megands.png",
+          "link": "/otz2025/teams/Megands"
+        },
+        "score": "Не начался",
+        "date": "20 июня в 16:00",
+        "match_id": "20250620-1600"
+      },
+
+      {
+        "team1": {
+          "name": "Megands",
+          "logo": "/otz2025/img/Megands.png",
+          "link": "/otz2025/teams/Megands"
+        },
+        "team2": {
+          "name": "Crumbl Bishes",
+          "logo": "/otz2025/img/Crumbl Bishes.png",
+          "link": "/otz2025/teams/CrumblBishes"
+        },
+        "score": "Не начался",
+        "date": "21 июня в 16:00",
+        "match_id": "20250621-1600"
+      }
+
+    ],
+    "all_star": [
+      {
+        "team1": {
+          "name": "Team 1",
+          "logo": "/otz2025/img/Team1.png",
+          "link": ""
+        },
+        "team2": {
+          "name": "Team 2",
+          "logo": "/otz2025/img/Team2.png",
+          "link": ""
+        },
+        "score": "Не начался",
+        "date": "22 июня",
+        "match_id": "20250622-0000"
+      }
+    ],
+    "after_all_star": [
+
+      {
+        "team1": {
+          "name": "Crumbl Bishes",
+          "logo": "/otz2025/img/Crumbl Bishes.png",
+          "link": "/otz2025/teams/CrumblBishes"
+        },
+        "team2": {
+          "name": "Megands",
+          "logo": "/otz2025/img/Megands.png",
+          "link": "/otz2025/teams/Megands"
+        },
+        "score": "Не начался",
+        "date": "6 июля в 16:00",
+        "match_id": "20250706-1600"
+      },
+
+      {
+        "team1": {
+          "name": "Megands",
+          "logo": "/otz2025/img/Megands.png",
+          "link": "/otz2025/teams/Megands"
+        },
+        "team2": {
+          "name": "Bulldogs",
+          "logo": "/otz2025/img/Bulldogs.png",
+          "link": "/otz2025/teams/Bulldogs"
+        },
+        "score": "Не начался",
+        "date": "7 июля в 16:00",
+        "match_id": "20250707-1600"
+      },
+
+      {
+        "team1": {
+          "name": "Crumbl Bishes",
+          "logo": "/otz2025/img/Crumbl Bishes.png",
+          "link": "/otz2025/teams/CrumblBishes"
+        },
+        "team2": {
+          "name": "Bulldogs",
+          "logo": "/otz2025/img/Bulldogs.png",
+          "link": "/otz2025/teams/Bulldogs"
+        },
+        "score": "Не начался",
+        "date": "7 июля в 18:00",
+        "match_id": "20250707-1800"
+      },
+
+      {
+        "team1": {
+          "name": "Kitty Boys",
+          "logo": "/otz2025/img/Kitty Boys.png",
+          "link": "/otz2025/teams/KittyBoys"
+        },
+        "team2": {
+          "name": "Megands",
+          "logo": "/otz2025/img/Megands.png",
+          "link": "/otz2025/teams/Megands"
+        },
+        "score": "Не начался",
+        "date": "8 июля в 13:00",
+        "match_id": "20250708-1300"
+      },
+
+      {
+        "team1": {
+          "name": "Bulldogs",
+          "logo": "/otz2025/img/Bulldogs.png",
+          "link": "/otz2025/teams/Bulldogs"
+        },
+        "team2": {
+          "name": "Crumbl Bishes",
+          "logo": "/otz2025/img/Crumbl Bishes.png",
+          "link": "/otz2025/teams/CrumblBishes"
+        },
+        "score": "Не начался",
+        "date": "8 июля в 17:00",
+        "match_id": "20250708-1700"
+      }
+      
+    ] 
+  }
+}

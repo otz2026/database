@@ -1,0 +1,54 @@
+[
+  {
+    "id": 3,
+    "team": "Crumbl Bishes",
+    "logo": "/otz2025/img/Crumbl Bishes.png",
+    "games": 1,
+    "wins": 1,
+    "losses": 0,
+    "scored": 76,
+    "conceded": 70,
+    "percentage": 6,
+    "place": 3,
+    "urlname": "CrumblBishes"
+  },
+  {
+    "id": 1,
+    "team": "Bulldogs",
+    "logo": "/otz2025/img/Bulldogs.png",
+    "games": 3,
+    "wins": 1,
+    "losses": 2,
+    "scored": 261,
+    "conceded": 267,
+    "percentage": -6,
+    "place": 1,
+    "urlname": "Bulldogs"
+  },
+  {
+    "id": 2,
+    "team": "Kitty Boys",
+    "logo": "/otz2025/img/Kitty Boys.png",
+    "games": 2,
+    "wins": 1,
+    "losses": 1,
+    "scored": 191,
+    "conceded": 191,
+    "percentage": 0,
+    "place": 2,
+    "urlname": "KittyBoys"
+  },
+  {
+    "id": 4,
+    "team": "Megands",
+    "logo": "/otz2025/img/Megands.png",
+    "games": 0,
+    "wins": 0,
+    "losses": 0,
+    "scored": 0,
+    "conceded": 0,
+    "percentage": 0,
+    "place": 4,
+    "urlname": "Megands"
+  }
+]
