@@ -105,9 +105,22 @@
       "3pt": 5
     },
     {
+      "name": "Лукьянов Святослав",
+      "photo": "10",
+      "team": "Bulldogs",
+      "height": 177,
+      "games": 0,
+      "points": 0,
+      "rebounds": 0,
+      "assists": 0,
+      "steals": 0,
+      "blocks": 0,
+      "3pt": 0
+    },
+    {
       "name": "Нагайцев Андрей",
       "photo": "15",
-      "team": "Bulldogs",
+      "team": "Kitty Boys",
       "height": 165,
       "games": 3,
       "points": 32,
