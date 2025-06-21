@@ -140,11 +140,11 @@
         "score": 90,
         "stats": {
           "points": 90,
-          "rebounds": 0,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "3pt": "0"
+          "rebounds": 51,
+          "assists": 12,
+          "steals": 5,
+          "blocks": 4,
+          "3pt": "8"
         },
         "players": [
           {"name": "Шипко Владимир", "photo": "24", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/24"},
@@ -152,6 +152,57 @@
           {"name": "Симонян Богдан", "photo": "19", "points": 1, "rebounds": 7, "assists": 4, "steals": 1, "blocks": 0, "3pt": "0", "link": "/otz2025/players/19"},
           {"name": "Луцик Владимир", "photo": "11", "points": 8, "rebounds": 25, "assists": 0, "steals": 1, "blocks": 3, "3pt": "0", "link": "/otz2025/players/11"},
           {"name": "Лагуткин Артем", "photo": "9", "points": 29, "rebounds": 5, "assists": 5, "steals": 0, "blocks": 0, "3pt": "5", "link": "/otz2025/players/9"}
+        ]
+      }
+    },
+
+    {
+      "id": "20250620-1600",
+      "date": "21 июня 17:30",
+      "location": "Звенигород",
+      "competition": "OTZ Summer League, Opening Night",
+      "video": "https://vk.com/club230329098",
+      "home_team": {
+        "name": "Bulldogs",
+        "logo": "/otz2025/img/Bulldogs.png",
+        "link": "/otz2025/teams/Bulldogs",
+        "score": 73,
+        "stats": {
+          "points": 73,
+          "rebounds": 29,
+          "assists": 10,
+          "steals": 4,
+          "blocks": 1,
+          "3pt": "8"
+        },
+        "players": [
+          {"name": "Трихук Никита", "photo": "22", "points": 33, "rebounds": 12, "assists": 3, "steals": 2, "blocks": 2, "3pt": "5", "link": "/otz2025/players/22"},
+          {"name": "Чугунов Макар", "photo": "23", "points": 17, "rebounds": 13, "assists": 4, "steals": 1, "blocks": 0, "3pt": "0", "link": "/otz2025/players/23"},
+          {"name": "Яртым Андрей", "photo": "25", "points": 2, "rebounds": 0, "assists": 1, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/25"},
+          {"name": "Ивлев Мирослав", "photo": "7", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/7"},
+          {"name": "Лукьянов Святослав", "photo": "10", "points": 6, "rebounds": 2, "assists": 1, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/10"},
+          {"name": "Демьянов Кирилл", "photo": "4", "points": 15, "rebounds": 2, "assists": 1, "steals": 2, "blocks": 0, "3pt": "3", "link": "/otz2025/players/4"},
+        ]
+      },
+      "away_team": {
+        "name": "Megands",
+        "logo": "/otz2025/img/Megands.png",
+        "link": "/otz2025/teams/Megands",
+        "score": 82,
+        "stats": {
+          "points": 82,
+          "rebounds": 36,
+          "assists": 4,
+          "steals": 7,
+          "blocks": 8,
+          "3pt": "8"
+        },
+        "players": [
+          {"name": "Кондратьев Ярослав", "photo": "8", "points": 32, "rebounds": 8, "assists": 0, "steals": 1, "blocks": 1, "3pt": "1", "link": "/otz2025/players/8"},
+          {"name": "Бабенко Александр", "photo": "1", "points": 6, "rebounds": 0, "assists": 1, "steals": 2, "blocks": 0, "3pt": "0", "link": "/otz2025/players/1"},
+          {"name": "Огурцов Владимир", "photo": "16", "points": 11, "rebounds": 15, "assists": 1, "steals": 2, "blocks": 6, "3pt": "0", "link": "/otz2025/players/16"},
+          {"name": "Сусоров Максим", "photo": "21", "points": 5, "rebounds": 2, "assists": 1, "steals": 0, "blocks": 0, "3pt": "1", "link": "/otz2025/players/21"},
+          {"name": "Ежов Глеб", "photo": "6", "points": 28, "rebounds": 11, "assists": 1, "steals": 2, "blocks": 1, "3pt": "6", "link": "/otz2025/players/6"}
         ]
       }
     },
@@ -253,59 +304,6 @@
           {"name": "Симонян Богдан", "photo": "19", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/19"},
           {"name": "Луцик Владимир", "photo": "11", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/11"},
           {"name": "Лагуткин Артем", "photo": "9", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/9"}
-        ]
-      }
-    },
-
-
-
-    {
-      "id": "20250620-1600",
-      "date": "20 июня 16:00",
-      "location": "Звенигород",
-      "competition": "OTZ Summer League, Opening Night",
-      "video": "https://vk.com/club230329098",
-      "home_team": {
-        "name": "Bulldogs",
-        "logo": "/otz2025/img/Bulldogs.png",
-        "link": "/otz2025/teams/Bulldogs",
-        "score": 0,
-        "stats": {
-          "points": 0,
-          "rebounds": 0,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "3pt": "0"
-        },
-        "players": [
-          {"name": "Трихук Никита", "photo": "22", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/22"},
-          {"name": "Чугунов Макар", "photo": "23", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/23"},
-          {"name": "Яртым Андрей", "photo": "25", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/25"},
-          {"name": "Ивлев Мирослав", "photo": "7", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/7"},
-          {"name": "Демьянов Кирилл", "photo": "4", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/4"},
-          {"name": "Нагайцев Андрей", "photo": "15", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/15"}
-        ]
-      },
-      "away_team": {
-        "name": "Megands",
-        "logo": "/otz2025/img/Megands.png",
-        "link": "/otz2025/teams/Megands",
-        "score": 0,
-        "stats": {
-          "points": 0,
-          "rebounds": 0,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "3pt": "0"
-        },
-        "players": [
-          {"name": "Кондратьев Ярослав", "photo": "8", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/8"},
-          {"name": "Бабенко Александр", "photo": "1", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/1"},
-          {"name": "Огурцов Владимир", "photo": "16", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/16"},
-          {"name": "Сусоров Максим", "photo": "21", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/21"},
-          {"name": "Ежов Глеб", "photo": "6", "points": 0, "rebounds": 0, "assists": 0, "steals": 0, "blocks": 0, "3pt": "0", "link": "/otz2025/players/6"}
         ]
       }
     },
