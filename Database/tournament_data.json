@@ -27,19 +27,6 @@
   },
   {
     "id": 3,
-    "team": "Crumbl Bishes",
-    "logo": "/otz2025/img/Crumbl Bishes.png",
-    "games": 1,
-    "wins": 1,
-    "losses": 0,
-    "scored": 76,
-    "conceded": 70,
-    "percentage": 6,
-    "place": 3,
-    "urlname": "CrumblBishes"
-  },
-  {
-    "id": 4,
     "team": "Megands",
     "logo": "/otz2025/img/Megands.png",
     "games": 1,
@@ -48,7 +35,21 @@
     "scored": 82,
     "conceded": 73,
     "percentage": 9,
-    "place": 4,
+    "place": 3,
     "urlname": "Megands"
+  },
+  {
+    "id": 4,
+    "team": "Crumbl Bishes",
+    "logo": "/otz2025/img/Crumbl Bishes.png",
+    "games": 1,
+    "wins": 1,
+    "losses": 0,
+    "scored": 76,
+    "conceded": 70,
+    "percentage": 6,
+    "place": 4,
+    "urlname": "CrumblBishes"
   }
+
 ]
