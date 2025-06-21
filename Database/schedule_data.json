@@ -50,7 +50,23 @@
         "date": "16 июня в 17:00",
         "match_id": "20250709-1600"
       },
-
+      
+      {
+        "team1": {
+          "name": "Bulldogs",
+          "logo": "/otz2025/img/Bulldogs.png",
+          "link": "/otz2025/teams/Bulldogs"
+        },
+        "team2": {
+          "name": "Megands",
+          "logo": "/otz2025/img/Megands.png",
+          "link": "/otz2025/teams/Megands"
+        },
+        "score": "73:82",
+        "date": "21 июня в 17:30",
+        "match_id": "20250620-1600"
+      },
+      
       {
         "team1": {
           "name": "Megands",
@@ -81,22 +97,6 @@
         "score": "Не начался",
         "date": "20 июня в 14:00",
         "match_id": "20250620-1400"
-      },
-
-      {
-        "team1": {
-          "name": "Bulldogs",
-          "logo": "/otz2025/img/Bulldogs.png",
-          "link": "/otz2025/teams/Bulldogs"
-        },
-        "team2": {
-          "name": "Megands",
-          "logo": "/otz2025/img/Megands.png",
-          "link": "/otz2025/teams/Megands"
-        },
-        "score": "Не начался",
-        "date": "20 июня в 16:00",
-        "match_id": "20250620-1600"
       },
 
       {
